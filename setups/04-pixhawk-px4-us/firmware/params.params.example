@@ -1,0 +1,9 @@
+# PX4 parameter export example — replace with a real QGC export
+# Format is illustrative.
+
+BAT1_N_CELLS 6
+BAT1_V_EMPTY 3.3
+BAT1_V_CHARGED 4.2
+COM_RC_LOSS_T 0.5
+GF_ACTION 3
+EKF2_MAG_TYPE 1
